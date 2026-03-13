@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers==5.3.0
+scikit-learn
+pillow
+tqdm
+nltk
+rouge-score
+numpy 
